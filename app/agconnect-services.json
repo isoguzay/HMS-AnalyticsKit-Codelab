@@ -1,0 +1,33 @@
+{
+	"agcgw":{
+		"backurl":"connect-dre.dbankcloud.cn",
+		"url":"connect-dre.hispace.hicloud.com"
+	},
+	"client":{
+		"cp_id":"XXXXXXXXXXXXXXXXXXXXXXX",
+		"product_id":"XXXXXXXXXXXXXXXXXXXXXXX",
+		"client_id":"XXXXXXXXXXXXXXXXXXXXXXX",
+		"client_secret":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+		"app_id":"XXXXXXXXXXXXXXXXXXXXXXX",
+		"package_name":"com.isoguzay.hmsanalyticskitcodelab",
+		"api_key":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+			"resource_id":"XXXXXXXXXXXXXXXXXXXXXXX",
+			"channel_id":""
+		},
+		"search":{
+			"url":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		},
+		"cloudstorage":{
+			"storage_url":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		},
+		"ml":{
+			"mlservice_url":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		}
+	},
+	"region":"DE",
+	"configuration_version":"1.0"
+}

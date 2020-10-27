@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HmsAnalyticsKitCodelab</string>
+    <string name="custom_events_question">Do you like this exercise about the Analytics Kit?</string>
+    <string name="custom_events_question_answer_yes">Yes</string>
+    <string name="custom_events_question_answer_no">No</string>
+    <string name="phone_brand">Huawei</string>
+    <string name="phone_name">P40 Pro - 128 GB</string>
+    <string name="phone_price">Price: 400 €</string>
+    <string name="button_add_to_cart">Add to Cart</string>
+    <string name="textView_predefined_event_demo_text">Predefined Event - Demo</string>
+    <string name="textView_custom_event_demo_text">Custom Event - Demo</string>
+</resources>
